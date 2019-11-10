@@ -2,7 +2,7 @@
 
 This project is a projection of [Dribble Roomie](https://dribbble.com/shots/6050591-Roomie-Room-Booking-Website) of [Kukuh Andik](https://dribbble.com/kuatur) as an example of a real-world front-end job.
 
-Live preview: 
+Live preview: https://userman95.github.io/dribble-portfolio/
 
 
 ## Built With
@@ -17,3 +17,4 @@ Live preview:
 
 # Screenshot 
 
+![screenshot]
