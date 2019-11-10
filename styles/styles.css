@@ -280,8 +280,9 @@ header{
 }
 .line{
     margin-top: 80px;
-    width: 80%;
-    border: 1px solid black;
+    width: 85%;
+    background-color: #f1f1f3;
+    border: 1px solid #f1f1f3;
 }
 .testimonials{
     display: flex;
