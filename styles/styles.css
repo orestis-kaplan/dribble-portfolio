@@ -458,6 +458,25 @@ ul li{
     font-size: 10px;
     color: #7f7b87;
 }
+.social-fb,.social-twi,.social-linked{
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin-right: 16px;
+    margin-top: 15px;
+}
+.social-fb{
+    background-image: url('../images/facebook.png');
+}
+.social-twi{
+    background-image: url('../images/twitter.png');
+    background-position: center;
+    background-size: 80px;
+}
+.social-linked{
+    background-image: url('../images/linkedin.png');
+}
 @media only screen and (min-width: 320px) {
     .description{
         width: 85%;
