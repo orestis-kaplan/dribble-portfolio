@@ -17,4 +17,4 @@ Live preview: https://userman95.github.io/dribble-portfolio/
 
 # Screenshot 
 
-![screenshot]
+![screenshot](https://github.com/userman95/dribble-portfolio/blob/master/images/Screenshot%20.png)
